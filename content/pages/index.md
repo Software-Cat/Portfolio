@@ -186,7 +186,7 @@ sections:
           - pb-24
           - pr-4
           - pl-4
-        alignItems: center
+        alignItems: flex-end
         justifyContent: center
         flexDirection: row
         borderRadius: none
