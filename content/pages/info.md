@@ -82,11 +82,6 @@ sections:
         url: /images/logo5.svg
         altText: Logo five
         caption: Logo five
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
