@@ -189,7 +189,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: full
+        borderRadius: none
       title:
         textAlign: left
       text:
