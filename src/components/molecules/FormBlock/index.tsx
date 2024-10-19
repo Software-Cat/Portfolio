@@ -27,7 +27,6 @@ export default function FormBlock(props) {
             id={elementId}
             onSubmit={handleSubmit}
             ref={formRef}
-            netlify
         >
             <div className="grid sm:grid-cols-2 sm:gap-x-4">
                 <input type="hidden" name="form-name" value={elementId} />
