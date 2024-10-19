@@ -190,6 +190,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: none
+        borderWidth: 3
       title:
         textAlign: left
       text:
