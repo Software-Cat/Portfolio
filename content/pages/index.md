@@ -191,6 +191,7 @@ sections:
         flexDirection: row
         borderRadius: none
         borderWidth: 3
+        borderStyle: none
       title:
         textAlign: left
       text:
