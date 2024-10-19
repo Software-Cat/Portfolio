@@ -190,4 +190,5 @@ sections:
       text:
         textAlign: left
     text: ''
+addTitleSuffix: true
 ---
