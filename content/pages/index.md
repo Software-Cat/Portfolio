@@ -193,6 +193,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: |
-      Test
+    text: ''
 ---
