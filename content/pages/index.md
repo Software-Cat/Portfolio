@@ -190,5 +190,5 @@ sections:
       text:
         textAlign: left
     text: ''
-addTitleSuffix: true
+addTitleSuffix: false
 ---
