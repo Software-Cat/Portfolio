@@ -128,7 +128,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: ContactSection
-    colors: colors-c
+    colors: colors-b
     backgroundSize: full
     title: "Got an interesting project? Tell me more...\U0001F4AC"
     form:
